@@ -28,6 +28,10 @@ wp-config.php
 
 # Uploads
 /wp-content/uploads/
+/wp-content/cache 
+/wp-content/upgrade-temp-backup
+/wp-content/upgrade
+/wp-content/wflogs
 
 # Log files
 *.log
@@ -36,6 +40,7 @@ wp-config.php
 /.htaccess
 
 # All plugins
+
 #
 # Note: If you wish to whitelist plugins,
 # uncomment the next line
